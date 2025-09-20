@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuzikakal
 - 👀 I’m interested in programmig and artwork
-- 🌱 I’m currently learning html, css, js, php. I'm going to learn css frameworks
+- 🌱 I’m currently learning html, css, js, php. I'm going to learn C++
 - 📫 You can follow me at Instagram, Facebook, and X
 
 <!---
