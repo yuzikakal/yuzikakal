@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuzikakal
 - 👀 I’m interested in programmig and artwork
-- 🌱 I’m currently learning web programing, C++, and Java
+- 🌱 I’m currently learning web programming, C++, and Java
 - 📫 You can follow me at Instagram, Facebook, and X
 
 <div align="center">
