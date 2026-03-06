@@ -3,13 +3,9 @@
 - 🌱 I’m currently learning web programming, C++, and Java
 - 📫 You can follow me at Instagram, Facebook, and X
 
-<div align="center">
-  
-Aku Mah Masih Pemula <br><br>
+
 ![Repo History](https://github-readme-stats-eight-theta.vercel.app/api?username=yuzikakal&layout=compact&theme=tokyonight&hide_border=true) <br>
 ![My Favorite Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuzikakal&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ![Views Count](https://komarev.com/ghpvc/?username=yuzikakal)
 <!---
