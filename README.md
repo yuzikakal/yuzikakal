@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuzikakal
-- 👀 I’m interested in programmig and artwork
+- 💻 Junior Web Programmer and Illustrator
 - 🌱 I’m currently learning web programming, C++, and Java
 - 📫 You can follow me at Instagram, Facebook, and X
 
