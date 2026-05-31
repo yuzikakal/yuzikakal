@@ -9,7 +9,7 @@
 
 ![Views Count](https://komarev.com/ghpvc/?username=yuzikakal)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Language Stats](stats/leaderboard_by_lines.png)
 
 <!---
 yuzikakal/yuzikakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
