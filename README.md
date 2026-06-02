@@ -9,8 +9,8 @@
 
 ![Views Count](https://komarev.com/ghpvc/?username=yuzikakal)
 
-![](https://raw.githubusercontent.com/yuzikakal/github-stats/master/generated/languages.svg)
-<!-- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
+![](https://raw.githubusercontent.com/yuzikakal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yuzikakal/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!---
 yuzikakal/yuzikakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
