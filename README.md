@@ -20,9 +20,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuzikakal&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" height="200" alt="Repo History" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuzikakal&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" height="165" alt="Repo History" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/yuzikakal/github-stats/generated/languages.svg#gh-dark-mode-only" height="200" alt="Custom Languages Stats" />
+  <img src="https://raw.githubusercontent.com/yuzikakal/github-stats/generated/languages.svg#gh-dark-mode-only" height="165" alt="Custom Languages Stats" />
 </p>
 
 <br>
