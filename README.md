@@ -1,7 +1,12 @@
 <div align="center">
 
 # 👋 Hi there, I'm Yuzika!
-**💻 Junior Web Programmer | 🎨 Anime Illustrator**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=💻+Junior+Web+Programmer;🎨+Anime+Illustrator" alt="Typing SVG" />
+</a>
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yuzikakal&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS)
 
@@ -23,6 +28,13 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuzikakal&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" height="165" alt="Repo History" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/yuzikakal/github-stats/generated/languages.svg#gh-dark-mode-only" height="165" alt="Custom Languages Stats" />
+</p>
+
+<br>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzikakal&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br>
