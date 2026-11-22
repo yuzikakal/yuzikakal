@@ -33,6 +33,13 @@
 
 <br>
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzikakal&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<br>
+
 ### 📫 Let's Connect!
 <a href="https://www.instagram.com/yuzika_kalzamzami">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
